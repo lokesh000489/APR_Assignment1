@@ -80,6 +80,10 @@ Not Smiling       0.92      0.93      0.92      2587
    accuracy                           0.92      5000
   macro avg       0.92      0.92      0.92      5000
 weighted avg      0.92      0.92      0.92      5000
+
+
+<img width="725" height="714" alt="image" src="https://github.com/user-attachments/assets/2be8c3ca-3ab7-4869-ba92-d149fa883dc9" />
+
 ```
 
 The script also generates two key visualizations:

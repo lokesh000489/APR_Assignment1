@@ -81,15 +81,16 @@ Not Smiling       0.92      0.93      0.92      2587
   macro avg       0.92      0.92      0.92      5000
 weighted avg      0.92      0.92      0.92      5000
 
-
-<img width="725" height="714" alt="image" src="https://github.com/user-attachments/assets/2be8c3ca-3ab7-4869-ba92-d149fa883dc9" />
-
 ```
 
 The script also generates two key visualizations:
 
 1.  A plot of the top **Eigenfaces** learned from the image data.
 2.  A gallery of **test images** showing the model's predictions versus the actual labels.
+
+![Top Eigen Faces](./image1.png)
+
+![Smile Predictions on Test Set](./image2.png)
 
 -----
 
